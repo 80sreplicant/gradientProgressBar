@@ -1,4 +1,4 @@
-Note
+-Note
 
 If you are going out of your way to not use the <progress> element because you want to customise it like this, then you absolutely need to re-introduce the accessibility that you've removed through using a <div>
 
